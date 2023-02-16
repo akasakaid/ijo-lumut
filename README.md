@@ -5,7 +5,7 @@
 #### VERSI ANYAR
 
 ```
-apt update -y && apt upgrade -y && apt install screen -y && screen -R m
+ apt install screen -y && screen -R m && apt update -y && apt upgrade -y
 ```
 
 ```
