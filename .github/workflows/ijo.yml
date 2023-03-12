@@ -10,7 +10,7 @@ on:
   - cron: "0 1/2 * * *"
 
 jobs:
-  build:
+  auto_commit:
     runs-on: ubuntu-latest
 
     steps:
